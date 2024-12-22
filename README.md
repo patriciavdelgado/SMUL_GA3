@@ -26,7 +26,7 @@ This project implements a system for classifying environmental sounds using the 
 - A GPU is optional but can improve the feature extraction process.
 
 ## Instructions
-You only need to add the path of the extracted DATASET in our code, by changing the variable dataset_path in the Feature Extraction.
+You need to have the UrbanSound8K dataset extrated and change the part of the code related to the datapath.
 
 
 ## Acknowledgments
@@ -36,7 +36,4 @@ You only need to add the path of the extracted DATASET in our code, by changing 
   - Y. Su et al., “Performance analysis of multiple aggregated acoustic features for environment sound classification,” *Applied Acoustics*, vol. 158, p. 107050, 2020.
   - Z. Mushtaq et al., “Spectral images based environmental sound classification using CNN with meaningful data augmentation,” *Applied Acoustics*, vol. 172, p. 107581, 2021.
   - K. J. Piczak, “ESC: Dataset for Environmental Sound Classification,” in *Proceedings of the 23rd ACM International Conference on Multimedia*. ACM, October 2015, pp. 1015–1018.
-
-## Contact
-For questions or issues, please contact [Your Name/Email].
 
